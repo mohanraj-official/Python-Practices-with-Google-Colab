@@ -14,4 +14,4 @@ Links to Google Colab practices
 
 7 - PYHTON OPERATORS - https://colab.research.google.com/drive/1js9VfcaRLqdaal6ORHMVILnuNE8hbV1I?authuser=0#scrollTo=cNZqyW8lYScY
 
-8 - Conditional Statements - https://colab.research.google.com/drive/1RDm1roxjdtY5AEGNphjFqyGe58AGFd0-?authuser=0#scrollTo=k4Z060eJ2NRm
+8 - CONDITIONAL STATEMENTS - https://colab.research.google.com/drive/1RDm1roxjdtY5AEGNphjFqyGe58AGFd0-?authuser=0#scrollTo=k4Z060eJ2NRm
