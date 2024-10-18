@@ -20,5 +20,7 @@ Links to Google Colab practices
 
 10 - USER DEFINED FUNCTIONS - https://colab.research.google.com/drive/1fZ15AnHzOvTF1USiylXoyNmp-APig8uV?authuser=0#scrollTo=y8KwTBfMWnvi
 
+11 - LAMBDA FUNCTIONS - https://colab.research.google.com/drive/1D2lwoZXj2qmgGE4evWq-ho06RFRzrhyD?authuser=0#scrollTo=6qWxgEEz2RSm
+
 
 
