@@ -18,3 +18,7 @@ Links to Google Colab practices
 
 9 - BUILT IN FUNCTIONS - https://colab.research.google.com/drive/1PiW8DtqIC7o_dSi1RmJJ7DtE__ZfE92d?authuser=0#scrollTo=2ZdX2xDUu5o2
 
+10 - USER DEFINED FUNCTIONS - https://colab.research.google.com/drive/1fZ15AnHzOvTF1USiylXoyNmp-APig8uV?authuser=0#scrollTo=y8KwTBfMWnvi
+
+
+
