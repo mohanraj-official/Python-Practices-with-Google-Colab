@@ -22,5 +22,7 @@ Links to Google Colab practices
 
 11 - LAMBDA FUNCTIONS - https://colab.research.google.com/drive/1D2lwoZXj2qmgGE4evWq-ho06RFRzrhyD?authuser=0#scrollTo=6qWxgEEz2RSm
 
+12 - FILES HANDLING - https://colab.research.google.com/drive/1ZdlBtZhgAwUXlQ07Ylcq3fJcJJ-d7WJd?authuser=0#scrollTo=pjcThFA0Gkk3
+
 
 
