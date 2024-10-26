@@ -20,9 +20,9 @@ Links to Google Colab practices
 
 10 - USER DEFINED FUNCTIONS - https://colab.research.google.com/drive/1fZ15AnHzOvTF1USiylXoyNmp-APig8uV?authuser=0#scrollTo=y8KwTBfMWnvi
 
-13 - Exceptions Handling - https://colab.research.google.com/drive/1jm3gsmMpXc3pKzrqZQOstlLoxuWoZ_vX?authuser=0#scrollTo=8xCWDKvKa-e2
+13 - EXCEPTIONS HANDLING - https://colab.research.google.com/drive/1jm3gsmMpXc3pKzrqZQOstlLoxuWoZ_vX?authuser=0#scrollTo=8xCWDKvKa-e2
 
-14 - Modules and Libraries - https://colab.research.google.com/drive/1SGzB5qw67FODv_zJNSXD3_kXaS08I7_i#scrollTo=eOt-JgyghlUU
+14 - MODULES AND LIBRARIES - https://colab.research.google.com/drive/1SGzB5qw67FODv_zJNSXD3_kXaS08I7_i#scrollTo=eOt-JgyghlUU
 
 11 - LAMBDA FUNCTIONS - https://colab.research.google.com/drive/1D2lwoZXj2qmgGE4evWq-ho06RFRzrhyD?authuser=0#scrollTo=6qWxgEEz2RSm
 
