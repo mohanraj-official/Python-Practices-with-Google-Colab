@@ -28,5 +28,7 @@ Links to Google Colab practices
 
 12 - FILES HANDLING - https://colab.research.google.com/drive/1ZdlBtZhgAwUXlQ07Ylcq3fJcJJ-d7WJd?authuser=0#scrollTo=pjcThFA0Gkk3
 
+15 - CLASSES AND OBJECTS - https://colab.research.google.com/drive/1Kwr_Tz2kP0snSuDesxavvIKzrWTEttl0?authuser=0#scrollTo=7mXHEG77QkxV
+
 
 
